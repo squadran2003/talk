@@ -1,0 +1,2 @@
+# talk
+django chat application
